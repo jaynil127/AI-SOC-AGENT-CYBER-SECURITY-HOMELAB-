@@ -51,6 +51,10 @@ sudo python3 new_soc_capture.py
 
 The SOC agent captures ICMP traffic, logs packet data, and generates alerts for analysis.
 
+# Architecture Diagram
+
+![SOC Agent Pipeline](soc_agent_pipeline.svg)
+
 # Disclaimer
 
 This project is created for educational and cybersecurity learning purposes only. The lab environment is used to simulate basic network monitoring and threat detection scenarios.
